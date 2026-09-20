@@ -1,0 +1,8 @@
+{
+  "name": "contract-sign-ecommerce-typescript",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "tsx src/checkout_service.ts", "test": "tsx src/checkout_service.test.ts"},
+  "dependencies": {"zod": "^3.23.8"},
+  "devDependencies": {"tsx": "^4.19.2", "typescript": "^5.6.3"}
+}
